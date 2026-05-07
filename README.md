@@ -1,4 +1,4 @@
-# SQL Server 資料庫開發實務（Database Development Practice）
+# SQL Server 資料庫開發實務
 
 本專案為 SQL Server 從基礎到進階的完整練習，
 內容涵蓋資料庫設計、查詢語法與金融資料分析。
